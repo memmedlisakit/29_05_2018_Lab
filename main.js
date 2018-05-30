@@ -17,7 +17,7 @@
 
 // function Car(_marka){
 // 	this.marka = _marka;
-// 	this.ehtiyatHisseleri = ["motor", "teker", "qapi"];
+// 	this.ehtiyatHisseleri = ["motor", "teker", "qapi"];             // incorrect
 // 	this.motor = {
 // 		tekerSayi:4,												// incorrect
 // 		motorGucu:2000,
@@ -28,9 +28,9 @@
 // }
 
 // Car.prototype.model = "Sunny";
-// // Car.prototype.ehtiyatHisseleri = ["motor", "teker", "qapi"];  // incorrect
+// // Car.prototype.ehtiyatHisseleri = ["motor", "teker", "qapi"];  // correct
 // // Car.prototype.motor = {
-// // 	tekerSayi:4,												// incorrect
+// // 	tekerSayi:4,												// correct
 // // 	motorGucu:2000,
 // // }
 
